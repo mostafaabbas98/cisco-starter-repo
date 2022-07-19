@@ -16,7 +16,7 @@ const PublicIP = ({ IPV }) => {
 
   useEffect(() => {
     getApiData();
-  }, []);
+  });
 
   return (
     <div>

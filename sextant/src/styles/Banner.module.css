@@ -1,10 +1,12 @@
 .banner {
   background-color: var(--mainlight);
   color: #fff;
+  position: sticky;
+  top: 0;
 }
 
 .title {
-  padding: 1.5rem;
+  padding: 1rem;
 }
 .title p {
   font-size: 14px;
@@ -23,7 +25,7 @@
   position: relative;
   display: block;
   width: calc(100% + 1.3px);
-  height: 150px;
+  height: 100px;
 }
 
 .wave .shapeFill {

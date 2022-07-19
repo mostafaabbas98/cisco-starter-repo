@@ -1,6 +1,7 @@
 import styles from './styles/App.module.css';
 import Banner from './components/Banner';
 import Layout from './components/Layout';
+import PublicIP from './components/PublicIP';
 
 function App() {
   return (

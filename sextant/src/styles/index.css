@@ -1,0 +1,31 @@
+@import url(//db.onlinewebfonts.com/c/b2eac1c34393797ba0f58c58e54487c9?family=CiscoSans+Thin);
+
+@font-face {
+  font-family: 'CiscoSans Thin';
+  src: url('//db.onlinewebfonts.com/t/b2eac1c34393797ba0f58c58e54487c9.eot');
+  src: url('//db.onlinewebfonts.com/t/b2eac1c34393797ba0f58c58e54487c9.eot?#iefix')
+      format('embedded-opentype'),
+    url('//db.onlinewebfonts.com/t/b2eac1c34393797ba0f58c58e54487c9.woff2')
+      format('woff2'),
+    url('//db.onlinewebfonts.com/t/b2eac1c34393797ba0f58c58e54487c9.woff')
+      format('woff'),
+    url('//db.onlinewebfonts.com/t/b2eac1c34393797ba0f58c58e54487c9.ttf')
+      format('truetype'),
+    url('//db.onlinewebfonts.com/t/b2eac1c34393797ba0f58c58e54487c9.svg#CiscoSans Thin')
+      format('svg');
+}
+
+:root {
+  --maindark: #0d274d;
+  --mainlight: #00bceb;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'CiscoSans Thin';
+}
